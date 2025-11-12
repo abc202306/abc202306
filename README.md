@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-- 🌱 I’m currently learning everything
-- 🗃️ Resources:
-    - 📗 [abc202306's TiddlyWiki](https://abc202306.github.io/)
+- 🗃️ My blog: [abc202306's TiddlyWiki](https://abc202306.github.io/)
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
