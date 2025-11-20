@@ -1,4 +1,4 @@
-## 🗄️ My repo:
+## 🗂️ My repos:
 
 1. 📔 Obsidian Vault
     1. [📔 汉语主题词表 - chinese-thesaurus](https://github.com/abc202306/obsidian-example-vault-chinese-thesaurus)
@@ -8,11 +8,11 @@
     2. [✂️ EXHentai Web Clipper for Obsidian](https://github.com/abc202306/exhentai-web-clipper-for-obsidian)
     3. [✂️ NHentai Web Clipper for Obsidian](https://github.com/abc202306/nhentai-web-clipper-for-obsidian)
 3. 🔨 SiYuan Plugin
-    1. [🔨 SiYuan Adaptive Expander](https://github.com/abc202306/siyuan-adaptive-expander)
+    1. [🔨 思源自适应展开器 - SiYuan Adaptive Expander](https://github.com/abc202306/siyuan-adaptive-expander)
 
-## 📗 My blog: 
+## 📚 My blogs: 
 
-- [abc202306's TiddlyWiki](https://abc202306.github.io/)
+- [📗 abc202306's TiddlyWiki](https://abc202306.github.io/)
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
