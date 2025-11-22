@@ -13,6 +13,7 @@
 ## 📚 My blogs: 
 
 1. [📗 abc202306's TiddlyWiki](https://abc202306.github.io/)
+2. [📘 abc202306's bookmarked websites](https://github.com/abc202306/sites)
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
