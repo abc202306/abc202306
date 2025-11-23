@@ -1,19 +1,21 @@
 ## 🗂️ My repos:
 
-1. 📔 Obsidian Vault
-    1. [📔 汉语主题词表（OB笔记库）](https://github.com/abc202306/obsidian-example-vault-chinese-thesaurus) | chinese-thesaurus
-    2. [📔 中国图书馆分类法（OB笔记库）](https://github.com/abc202306/obsidian-example-vault-chinese-library-classification) | chinese-library-classification
-2. ✂️ Obsidian Web Clipper
-    1. [✂️ 适用于 Obsidian 的汉语主题词剪藏器](https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian) | Chinese Thesaurus Web Clipper for Obsidian
-    2. [✂️ EXHentai Web Clipper for Obsidian](https://github.com/abc202306/exhentai-web-clipper-for-obsidian) | 🔞nsfw
-    3. [✂️ NHentai Web Clipper for Obsidian](https://github.com/abc202306/nhentai-web-clipper-for-obsidian) | 🔞nsfw
-3. 🔨 SiYuan Plugin
-    1. [🔨 思源自适应展开器](https://github.com/abc202306/siyuan-adaptive-expander) | SiYuan Adaptive Expander
+
+| #️⃣ Order | 🔗 Link | 📁 Category | ℹ️ Description |
+| :--- | :--- | :--- | :--- |
+| 1 | [📔 汉语主题词表（OB笔记库）](https://github.com/abc202306/obsidian-example-vault-chinese-thesaurus) | 📔 Obsidian Vault | chinese-thesaurus |
+| 2 | [📔 中国图书馆分类法（OB笔记库）](https://github.com/abc202306/obsidian-example-vault-chinese-library-classification) | 📔 Obsidian Vault  | chinese-library-classification |
+| 3 | [✂️ 适用于 Obsidian 的汉语主题词剪藏器](https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian) | ✂️ Obsidian Web Clipper | Chinese Thesaurus Web Clipper for Obsidian |
+| 4 | [✂️ EXHentai Web Clipper for Obsidian](https://github.com/abc202306/exhentai-web-clipper-for-obsidian) | ✂️ Obsidian Web Clipper | 🔞nsfw |
+| 5 | [✂️ NHentai Web Clipper for Obsidian](https://github.com/abc202306/nhentai-web-clipper-for-obsidian) | ✂️ Obsidian Web Clipper | 🔞nsfw |
+| 6 | [🔨 思源自适应展开器](https://github.com/abc202306/siyuan-adaptive-expander) | 🔨 SiYuan Plugin | SiYuan Adaptive Expander |
 
 ## 📚 My blogs: 
 
-1. [📗 abc202306's TiddlyWiki](https://abc202306.github.io/)
-2. [📘 abc202306's bookmarked websites](https://github.com/abc202306/sites)
+| #️⃣ Order | 🔗 Link | 📁 Category | ℹ️ Description |
+| :--- | :--- | :--- | :--- |
+| 1 | [📗 TiddlyWiki](https://abc202306.github.io/) | 📗 Encyclopedia | Used for publishing public notes or articles |
+| 2 | [📘 Favorite Websites](https://github.com/abc202306/sites) | 📘 Awesome List | Used to share my favorite websites |
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
