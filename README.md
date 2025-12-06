@@ -16,6 +16,11 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [📗 TiddlyWiki](https://abc202306.github.io/) | 📗 Encyclopedia | Used for publishing public notes or articles |
 | 2 | [📘 Favorite Websites](https://github.com/abc202306/sites) | 📘 Awesome List | Used to share my favorite websites |
+| 3 | [📔 Anime](https://github.com/abc202306/anime) | 📔 Obsidian Vault | |
+| 4 | [📔 Gallery](https://github.com/abc202306/galleries) | 📔 Obsidian Vault | 🔞nsfw |
+| 5 | [📔 Game](https://github.com/abc202306/games) | 📔 Obsidian Vault | |
+| 6 | [📔 BiliBili](https://github.com/abc202306/bilibili) | 📔 Obsidian Vault | |
+| 7 | [📔 ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | 📔 Obsidian Vault | Kept updated in real time, for personal use. |
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
