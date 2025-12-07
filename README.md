@@ -21,6 +21,8 @@
 | 5 | [📔 Game](https://github.com/abc202306/games) | 📔 Obsidian Vault | |
 | 6 | [📔 BiliBili](https://github.com/abc202306/bilibili) | 📔 Obsidian Vault | |
 | 7 | [📔 ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | 📔 Obsidian Vault | Kept updated in real time, for personal use. |
+| 8 | [📔 GalGame](https://github.com/abc202306/galgames) | 📔 Obsidian Vault | |
+| 9 | [📔 Music](https://github.com/abc202306/music) | 📔 Obsidian Vault | |
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
