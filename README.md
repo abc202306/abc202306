@@ -19,10 +19,10 @@
 | 3 | [📔 Anime](https://github.com/abc202306/anime) | 📔 Obsidian Vault | |
 | 4 | [📔 Gallery](https://github.com/abc202306/galleries) | 📔 Obsidian Vault | 🔞nsfw |
 | 5 | [📔 Game](https://github.com/abc202306/games) | 📔 Obsidian Vault | |
-| 6 | [📔 BiliBili](https://github.com/abc202306/bilibili) | 📔 Obsidian Vault | |
-| 7 | [📔 ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | 📔 Obsidian Vault | Kept updated in real time, for personal use. |
-| 8 | [📔 GalGame](https://github.com/abc202306/galgames) | 📔 Obsidian Vault | |
-| 9 | [📔 Music](https://github.com/abc202306/music) | 📔 Obsidian Vault | |
+| 6 | [📔 GalGame](https://github.com/abc202306/galgames) | 📔 Obsidian Vault | 🔞nsfw |
+| 7 | [📔 BiliBili](https://github.com/abc202306/bilibili) | 📔 Obsidian Vault | |
+| 8 | [📔 Music](https://github.com/abc202306/music) | 📔 Obsidian Vault | |
+| 9 | [📔 ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | 📔 Obsidian Vault | Kept updated in real time, for personal use. |
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
