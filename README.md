@@ -29,6 +29,7 @@
 | :--- | :--- | :--- |
 | 1 | [TiddlyWiki](https://abc202306.github.io/) | Used for publishing public notes or articles |
 | 2 | [Galleries](https://abc202306.github.io/quartz/) | 🔞nsfw |
+| 3 | [Music](https://abc202306.github.io/awesome-music) | |
 
 ### Awesome List
 
@@ -38,6 +39,7 @@
 | 2 | [Favorite Manga](https://github.com/abc202306/awesome-manga/) | Used to share my favorite manga |
 | 3 | [Favorite Games](https://github.com/abc202306/awesome-game/) | Used to share my favorite games |
 | 4 | [Favorite VSCode Plugin](https://github.com/abc202306/awesome-vscode-plugin/) | Used to share my favorite vscode plugins |
+| 5 | [Favorite Music](https://github.com/abc202306/awesome-music/) | Used to share my favorite music |
 
 ### Obsidian Vault
 
@@ -48,8 +50,7 @@
 | 3 | [Game](https://github.com/abc202306/games) | |
 | 4 | [GalGame](https://github.com/abc202306/galgames) | 🔞nsfw |
 | 5 | [BiliBili](https://github.com/abc202306/bilibili) | |
-| 6 | [Music](https://github.com/abc202306/music) | |
-| 7 | [ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | Kept updated in real time, for personal use. |
+| 6 | [ChineseThesaurusDB](https://github.com/abc202306/chinesethesaurusdb) | Kept updated in real time, for personal use. |
 
 <!--
 **abc202306/abc202306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
