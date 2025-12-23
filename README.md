@@ -35,11 +35,14 @@
 
 | # | Link | Description |
 | :--- | :--- | :--- |
-| 1 | [Favorite Websites](https://github.com/abc202306/sites) | Used to share my favorite websites |
-| 2 | [Favorite Manga](https://github.com/abc202306/awesome-manga/) | Used to share my favorite manga |
-| 3 | [Favorite Games](https://github.com/abc202306/awesome-game/) | Used to share my favorite games |
-| 4 | [Favorite VSCode Plugin](https://github.com/abc202306/awesome-vscode-plugin/) | Used to share my favorite vscode plugins |
-| 5 | [Favorite Music](https://github.com/abc202306/awesome-music/) | Used to share my favorite music |
+| 1 | [Favorite Websites](https://github.com/abc202306/sites) | My favorite websites |
+| 2 | [Favorite Manga](https://github.com/abc202306/awesome-manga/) | My favorite manga |
+| 3 | [Favorite Games](https://github.com/abc202306/awesome-game/) | My favorite games |
+| 4 | [Favorite Music](https://github.com/abc202306/awesome-music/) | My favorite music |
+| 5 | [Favorite VSCode Plugin](https://github.com/abc202306/awesome-vscode-plugin/) | My favorite vscode plugins |
+| 6 | [Favorite Obsidian Plugin](https://github.com/abc202306/awesome-obsidian-plugin/) | My favorite obsidian plugins |
+| 7 | [Favorite Browser Extension](https://github.com/abc202306/awesome-browser-extension/) | My favorite browser extensions |
+| 8 | [Favorite Tampermonkey Userscript](https://github.com/abc202306/awesome-tampermonkey-userscript/) | My favorite tampermonkey userscript |
 
 ### Obsidian Vault
 
