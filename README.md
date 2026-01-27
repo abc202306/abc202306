@@ -6,29 +6,33 @@ Welcome to my GitHub profile! 🌟
 
 ### Programming Languages
 
-#### 1. Low-Level Languages
+#### 1 Low-Level Languages
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-assembly-language.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-assembly-language.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-machine-code.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-machine-code.png)
 
-#### 2. Mid-to-High Level (System & Compiled)
+#### 2 Mid-to-High Level (System & Compiled)
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-c-language.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-c-language.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-cpp.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-cpp.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-rust.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-rust.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-go.svg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-go.svg)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-fortran.svg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-fortran.svg)
 
-#### 3. High-Level Managed Languages
+#### 3 High-Level Managed Languages
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-java.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-java.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-kotlin.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-kotlin.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-visual-basic.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-visual-basic.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-c-sharp.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-c-sharp.png)
 
-#### 4. Scripting & Interpreted Languages
+#### 4 Scripting & Interpreted Languages
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-python.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-python.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-javascript.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-javascript.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-typescript.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-typescript.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-ruby.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-ruby.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-php.svg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-php.svg)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-lua.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-lua.webp)
 
-#### 5. Declarative & Special Purpose Languages
+#### 5 Declarative & Special Purpose Languages
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-sql.jpg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-sql.jpg)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-matlab.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-matlab.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-r-project.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-r-project.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-wolfram-language.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-wolfram-language.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-sas.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-sas.webp)
 
-#### 6. Functional & Logic Paradigms
+#### 6 Functional & Logic Paradigms
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-lisp.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-lisp.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-prolog.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-prolog.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-haskell.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-haskell.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-lean.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-lean.png)
+
+### Command-Line Shells
+
+[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-cmd.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-cmd.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-powershell.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-powershell.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-bash.svg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-bash.svg)
 
 ## My repos
 
