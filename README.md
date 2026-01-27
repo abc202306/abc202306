@@ -34,6 +34,10 @@ Welcome to my GitHub profile! 🌟
 
 [<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-cmd.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-cmd.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-powershell.webp" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-powershell.webp)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-bash.svg" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-bash.svg)
 
+### Operating Systems
+
+[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-windows-os.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-windows-os.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-macos.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-macos.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-linux-os.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-linux-os.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-ios.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-ios.png)[<img src="https://raw.githubusercontent.com/abc202306/sites/refs/heads/main/assets/site-item-android.png" width="50">](https://github.com/abc202306/sites/blob/main/assets/site-item-android.png)
+
 ## My repos
 
 ### Obsidian Vault
